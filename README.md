@@ -6,7 +6,7 @@
 
 </div>
 
-I’m a **Computer Science and Engineering** student with a **double major in Industrial Engineering** and a **Minor in Finance** at **Sabancı University*
+I’m a **Computer Science and Engineering** student with a **double major in Industrial Engineering** and a **Minor in Finance** at **Sabancı University**
 
 ---
 
