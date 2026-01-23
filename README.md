@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sibelcelen/sibelcelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Sibel 
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&color=F472B6&center=true&width=700&lines=CSE+Student+%7C+IE+Double+Major+%7C+Finance+Minor+" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+I’m a **Computer Science and Engineering** student with a **double major in Industrial Engineering** and a **Minor in Finance** at **Sabancı University*
+
+---
+
+## 🌷 Projects I’ve Worked On
+
+🧘🏻‍♀️ **Pilates Studio Management System (PSMS)**  
+A full **database-driven web application** developed for *Database Systems*.  
+- Designed **ER & relational models**  
+- Implemented **triggers and stored procedures** to enforce business rules  
+- Integrated **PHP web interface** with **MySQL**  
+- Built a **MongoDB-based support ticket system**  
+- Demonstrates hybrid use of **relational + NoSQL databases**
+
+🛍️ **Data Science Project: Retail Therapy & Stress Relationship**  
+A data-driven analysis exploring the relationship between **consumer behavior (retail therapy)** and **stress levels**.  
+- Data preprocessing & analysis  
+- Exploratory data analysis and interpretation  
+- Focus on behavioral patterns and insights  
+
+🤖 **AI/ML-Powered Supervision of CNC Machine Operations**  
+Developed an AI-based system to detect real-time operational errors in CNC machining using  
+**machine learning and computer vision techniques**.
+
+⚡ **FPGA-Based Electronic Mastermind Machine (CS303)**  
+A **digital system design project** implemented on an **FPGA board** for *Digital Logic and Digital System Design*.  
+- Designed the system using **finite state machines (FSMs)**  
+- Implemented combinational and sequential logic modules  
+- Used **LEDs, seven-segment displays, timers, and control logic**  
+- Translated game rules into a hardware-level design  
+- Strengthened hands-on experience with **hardware-oriented system development**
+
+---
+
+### 🛠️ Skills & Tools 
+- **Programming:** Python, C++  
+- **Databases:** MySQL, MongoDB  
+- **Data & Tools:** Data Analysis, SQL, phpMyAdmin  
+- **Other:** Microsoft Office, Canva  
+
+---
+
+### 🌍 Languages 
+- Turkish (Native)  
+- English (C1)  
+- French (A2)  
+- German (A1)  
+
+---
+
+### 💌 Let’s Connect
+- 📧 **Email:** sibel.celen@sabanciuniv.edu  
+- 💼 **LinkedIn:** [linkedin.com/in/sibelcelen0](https://www.linkedin.com/in/sibelcelen0)
+
