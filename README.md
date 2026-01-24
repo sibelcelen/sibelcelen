@@ -30,7 +30,7 @@ A data-driven analysis exploring the relationship between **consumer behavior (r
 Developed an AI-based system to detect real-time operational errors in CNC machining using  
 **machine learning and computer vision techniques**.
 
-⚡ **FPGA-Based Electronic Mastermind Machine (CS303)**  
+⚡ **FPGA-Based Electronic Mastermind Machine**  
 A **digital system design project** implemented on an **FPGA board** for *Digital Logic and Digital System Design*.  
 - Designed the system using **finite state machines (FSMs)**  
 - Implemented combinational and sequential logic modules  
