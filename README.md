@@ -10,7 +10,7 @@ I’m a **Computer Science and Engineering** student with a **double major in In
 
 ---
 
-## 🌷 Projects I’ve Worked On
+##  Projects I’ve Worked On
 
 🧘🏻‍♀️ **Pilates Studio Management System (PSMS)**  
 A full **database-driven web application** developed for *Database Systems*.  
@@ -52,7 +52,7 @@ A **digital system design project** implemented on an **FPGA board** for *Digita
 - Turkish (Native)  
 - English (C1)  
 - French (A2)  
-- German (A1)  
+- German (A2)  
 
 ---
 
