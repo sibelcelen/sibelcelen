@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Sibel 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&color=F472B6&center=true&width=700&lines=CSE+Student+%7C+IE+Double+Major+%7C+Finance+Minor+" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&color=F472B6&center=true&width=700&lines=CSE+Student+%7C+%7C+Finance+Minor+" />
 
 </div>
 
