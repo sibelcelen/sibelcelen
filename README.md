@@ -6,7 +6,7 @@
 
 </div>
 
-I’m a **Computer Science and Engineering** student with a **double major in Industrial Engineering** and a **Minor in Finance** at **Sabancı University**
+I’m a **Computer Science and Engineering** student with a **Minor in Finance** at **Sabancı University**
 
 ---
 
@@ -48,7 +48,7 @@ A **digital system design project** implemented on an **FPGA board** for *Digita
 ---
 
 ### 🛠️ Skills & Tools 
-- **Programming:** Python, C++  
+- **Programming:** Python, C++, C, C#, JavaScript  
 - **Databases:** MySQL, MongoDB  
 - **Data & Tools:** Data Analysis, SQL, phpMyAdmin  
 - **Other:** Microsoft Office, Canva  
