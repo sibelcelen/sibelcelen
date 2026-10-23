@@ -12,6 +12,13 @@ I’m a **Computer Science and Engineering** student with a **double major in In
 
 ##  Projects I’ve Worked On
 
+🌍 **Digital Twin for Indoor Environmental Monitoring | Otto von Guericke University, Germany**  
+Developed a **Digital Twin prototype** for monitoring indoor environmental conditions during a research internship.
+- Worked with **embedded systems and environmental sensor data**
+- Explored **communication technologies** for sensor data transmission
+- Integrated hardware and software components for environmental monitoring
+- Gained hands-on experience in **IoT and Digital Twin technologies**
+
 🧘🏻‍♀️ **Pilates Studio Management System (PSMS)**  
 A full **database-driven web application** developed for *Database Systems*.  
 - Designed **ER & relational models**  
